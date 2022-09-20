@@ -1,0 +1,2 @@
+# DatasetForStyleTransfer
+华为mindspore比赛给的数据集
